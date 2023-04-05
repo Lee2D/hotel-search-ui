@@ -1,0 +1,39 @@
+.hotelCard {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 16px;
+  margin-bottom: 24px;
+  width: 600px;
+}
+
+.hotelCard h2 {
+  margin: 0 0 16px 0;
+}
+
+.hotelCard p {
+  margin: 0 0 8px 0;
+}
+
+.carouselWrapper {
+  margin-bottom: 16px;
+}
+
+.roomCombinations {
+  list-style-type: none;
+  padding: 0;
+}
+
+.roomCombinations li {
+  margin-bottom: 8px;
+}
+
+.star {
+  color: gold;
+  margin-right: 0.25rem;
+}
+
+.carouselImage {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
